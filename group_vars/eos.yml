@@ -1,0 +1,5 @@
+---
+ansible_network_os: eos
+ansible_user: neteng
+ansible_ssh_pass: juniper123
+ansible_connection: network_cli
